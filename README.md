@@ -25,7 +25,7 @@ pip install transformers
 
 - vit
 
-根据上方链接下载 `model.safetensors` 模型文件，`config.json` 和 `preprocessor_config.json`，放入 `resnet` 目录下；
+根据上方链接下载 `model.safetensors` 模型文件，`config.json` 和 `preprocessor_config.json`，放入 `vit/vit` 目录下；
 
 运行 `python infer.py`
 
