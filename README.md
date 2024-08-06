@@ -4,7 +4,7 @@
 
 - `huggingface` 网址：https://huggingface.co/
 
-- 测试了该网址上的 2 个模型，分别为：[resnet50](https://huggingface.co/timm/resnet50.a1_in1k)   和 [vit](https://huggingface.co/google/vit-base-patch16-224)
+- 测试了该网站上的 2 个模型，分别为：[resnet50](https://huggingface.co/timm/resnet50.a1_in1k)   和 [vit](https://huggingface.co/google/vit-base-patch16-224)
 
 ## 环境
 
